@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;   /* Titel links, Link rechts */
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;                     /* Höhe aus dem Redline-Mock */
+  background-color: #000;           /* Farbe aus dem Redline-Mock */
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #fff;
+}
+
+header a {
+  color: #fff;
+  text-decoration: none;
+}
