@@ -108,7 +108,7 @@ footer {
 
 .video + .intro {
   position: absolute;
-  top: 60px;              /* Höhe des Headers */
+  top: 60px;
   right: 5%;
   width: 40%;
   text-align: left;
