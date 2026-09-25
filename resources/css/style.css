@@ -102,6 +102,17 @@ footer {
   background-color: #000;
   color: #aaa;
 }
+.video {
+  position: relative;
+}
+
+.video + .intro {
+  position: absolute;
+  top: 60px;              /* Höhe des Headers */
+  right: 5%;
+  width: 40%;
+  text-align: left;
+}
 
 footer p {
   margin: 0;
